@@ -12,6 +12,7 @@ All tasks are implemented using Python with clean, well-structured, and properly
 -  Task - 3 Data Processing and Analysis >> [Access Notebook](./Task-3-Data-Processing-and-Analysis/Task_3_data_processing_and_analysis.ipynb)
 -  Task - 4 Function with Loops >> [Access Notebook](./Task-4-Function-with-Loops/Task_4_function_with_loops.ipynb)
 -  Task - 5 Function Based Problem Solving >> [Access Notebook](./Task-5-Function-Based-Problem-Solving/Task-5-function-based-problem-solving.ipynb)
+-  Task - 6 Function Based Problem Solving >> [Access Notebook](./Task-6-Function-Based-Problem-Solving/Task-6-function-based-problem-solving.ipynb)
 
 ## Tools Used
 
