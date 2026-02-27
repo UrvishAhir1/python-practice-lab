@@ -13,6 +13,7 @@ All tasks are implemented using Python with clean, well-structured, and properly
 -  Task - 4 Function with Loops >> [Access Notebook](./Task-4-Function-with-Loops/Task_4_function_with_loops.ipynb)
 -  Task - 5 Function Based Problem Solving >> [Access Notebook](./Task-5-Function-Based-Problem-Solving/Task-5-function-based-problem-solving.ipynb)
 -  Task - 6 Function Based Problem Solving >> [Access Notebook](./Task-6-Function-Based-Problem-Solving/Task-6-function-based-problem-solving.ipynb)
+-  Task - 7 Object-Oriented Programming (OOPS) >> [Access Notebook](./Task-7-Oops/Task-7-oops.ipynb)
 
 ## Tools Used
 
