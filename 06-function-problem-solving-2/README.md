@@ -1,4 +1,4 @@
-# Task – 6 Function-Based Problem Solving
+# Task – 6 Function-Based Problem Solving 2
 
 ## Problems Included
 
